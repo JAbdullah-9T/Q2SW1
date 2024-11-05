@@ -1,0 +1,33 @@
+
+	td {
+		text-align: center;
+		vertical-align: middle;
+	}
+
+	th {
+		text-align: center;
+	}
+
+	body {
+		background-image: url(https://static.vecteezy.com/system/resources/previews/020/793/913/non_2x/dragon-ball-landscape-scene-background-free-vector.jpg);
+	}
+
+	.header {
+		text-align: center;
+		padding: 50px;
+		background-color: orange;
+		margin: 30px;
+		font-family: serif;
+	}
+
+	.container {
+		padding: 5px;
+	}
+
+	.animate__tada:hover{
+  		animate-duration: 2s;
+  		display: inline-block;
+		animation: tada;
+		animation-duration: 2s;
+		animation-iteration-count: infinite;
+	}
